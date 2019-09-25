@@ -10,5 +10,6 @@ Example for how you can solve responsive layouts in spark using code. This proje
 ### Rectangles that are aligned diagonally accross the screen.
 ![Rectangles that are aligned diagonally accross the screen](https://user-images.githubusercontent.com/2833312/65633602-c86e9400-dfdc-11e9-92f7-9e67326d7d45.png)
 
---
+---
+
 The scripts also include some other secret juice.
